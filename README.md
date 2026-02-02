@@ -5,7 +5,7 @@
 * 💡 Beyond my academic studies, I am independently specializing as a **Backend Developer**.
 * 🌱 I am constantly learning and refining my skills in modern Java, REST APIs, and Web Development.
 * 🎯 My focus: Writing clean code, mastering the Spring ecosystem, and building strong enterprise backend systems.
-* 💼 Professional GitHub Portfolio: [Here](https://github.com/JoythDev)
+* 💼 Professional GitHub Portfolio: <a href="https://github.com/JoythDev" target="_blank">Here</a>
 
 ---
 
